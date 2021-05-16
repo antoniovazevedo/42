@@ -1,0 +1,9 @@
+[submodule "42cursus/0.libft"]
+	path = 42cursus/0.libft
+	url = https://github.com/antoniovazevedo/42cursus-0.libft
+[submodule "42cursus/1.get_next_line"]
+	path = 42cursus/1.get_next_line
+	url = https://github.com/antoniovazevedo/42cursus-1.get_next_line
+[submodule "42cursus/1.ft_printf"]
+	path = 42cursus/1.ft_printf
+	url = https://github.com/antoniovazevedo/42cursus-1.ft_printf
