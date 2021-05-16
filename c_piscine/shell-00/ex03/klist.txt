@@ -1,0 +1,5 @@
+Credentials cache: API:FB3B5C1D-93AA-40F1-BE97-BE9514256857
+        Principal: aazevedo@42LISBOA.COM
+
+  Issued                Expires               Principal
+Nov 23 10:59:11 2020  Nov 23 20:59:07 2020  krbtgt/42LISBOA.COM@42LISBOA.COM
